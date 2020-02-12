@@ -109,3 +109,18 @@ title = "The complete Irish guide to buying a car in the UK"
     ### Tax
     You can pay your road tax online the day after the vrt, the pin is the last 6 digits of your VIN.  Your disc will then arrive in the mail, followed soon after by the logbook.
     
+    
+    **Table detailing cost comparison**
+    
+    | Cost | Importing | [Irish Dealer](https://www.westbrookmotors.com/cardetails/mitsubishi/outlander/2016_mitsubishi_gx4h_phev/1420)
+    --------------------------------------------
+    | Car | £17000(€19900) | €27995 |
+    | Flight | £100 | 0 |
+    | Ferry | £185 | 0 |
+    | VRT | €1350 | 0 |
+    | Private Sale Existing Car / Trade In | -€850 | -€2000 |
+    | New Plates | €25 | €0 |
+    | Total | €20860 | €25995 |
+    
+    Overall Saving ~ €5000 
+    (Irish car also has 10,000 more miles on the clock!)
