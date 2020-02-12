@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-01-07T13:00:00Z
-draft = true
 excerpt = "A car is a major purchase and significant savings can be had by buying in the UK.  I saved **thousands**."
 hero = ""
 timeToRead = 10
