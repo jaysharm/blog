@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/the-complete-irish-guide-to-buying-a-car-in-the-uk.md
