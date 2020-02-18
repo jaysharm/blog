@@ -36,7 +36,7 @@ Ask the dealer questions:
 * How many owners
 * Full service history
 * Date of last service
-* Any known issues
+* Any known issues?
 * Does it run?
 * Condition? Any dents or scratches? Is the roof interior marked?
 * Does it have expected extras? Chip for satnav, spare keys, charging cables.  Look up what is expected for that car.
